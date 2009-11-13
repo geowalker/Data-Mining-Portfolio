@@ -1,0 +1,12 @@
+Geothermal Well Data from the Rotokawa Field New Zealand
+Data Attributes
+X - X location
+Y - Y location
+Z - Depth or Elevation
+Temperature - Temperature in Degree C
+Well - Well ID 
+Injectivity - Measured Injectivity Rate
+Flow - Measured Flow Rate
+Enthalpy - Measured Enthalpy from Prodcution Wells
+
+Additional Information Contained in Rotokowa Geology Report and RSI 2081 report
